@@ -62,7 +62,9 @@ export default function Home() {
         width={350}
         height={350}
       />
-
+      <h2 className="font-semibold text-3xl font-mono text-center">
+         PARA MI AMOR: ANGIE NICOLE CRUZADO RAFAEL
+      </h2>
       <Button asChild className="mb-8 bg-fuchsia-500">
         <Link href="https://wa.me/message/JQPYAQJVQTLHM1">Si te gusto?</Link>
       </Button>
