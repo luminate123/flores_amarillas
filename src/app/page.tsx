@@ -65,7 +65,7 @@ export default function Home() {
       />
 
       <Button asChild className="mb-8 bg-fuchsia-500">
-        <Link href="/login">Si te gusto?</Link>
+        <Link href="https://wa.me/message/JQPYAQJVQTLHM1">Si te gusto?</Link>
       </Button>
 
     </div>
